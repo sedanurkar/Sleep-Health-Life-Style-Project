@@ -1,3 +1,7 @@
 phyton kitabı
 
-bu kitap çok güzel olacak.
+önsöz : bu kitap çok güzel olacak.
+
+
+ilbölüm: değişkenler ve veri tipleri.
+
