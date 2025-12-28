@@ -5,3 +5,8 @@ phyton kitabı
 
 ilbölüm: değişkenler ve veri tipleri.
 
+
+
+bugün branchleri öğreniyoruz.
+
+
