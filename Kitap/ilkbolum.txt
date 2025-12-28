@@ -10,3 +10,4 @@ ilbölüm: değişkenler ve veri tipleri.
 bugün branchleri öğreniyoruz.
 
 
+artık son commit i de atıyoruz.
